@@ -22,5 +22,5 @@ This tool allows users to scan for vulnerable ports on a target IP address or do
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/port-scanner.git
-   cd port-scanner
+   git clone https://github.com/antonioburgos91/port-scanner.git
+cd port-scanner
