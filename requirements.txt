@@ -1,0 +1,6 @@
+# No se requieren paquetes externos.
+# Este proyecto usa exclusivamente la biblioteca estándar de Python 3.x:
+# socket, threading, ssl, datetime, tkinter (con scrolledtext, messagebox)
+
+# Si usas Linux y tienes problemas con la interfaz gráfica, instala:
+# sudo apt install python3-tk
